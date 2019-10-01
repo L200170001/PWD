@@ -1,0 +1,1 @@
+SELECT AVG(Nilai_Angka) 'Rata-rata Nilai' FROM Nilai

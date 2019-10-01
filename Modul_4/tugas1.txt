@@ -1,0 +1,6 @@
+SELECT : Untuk Menampilkan / Memilih isi dari sebuah atau lebih tabel.
+JOIN : Untuk Menggabungkan isi dari dua tabel.
+LEFT JOIN : Untuk menampilkan seluruh isi tabel kiri dan menampilkan sebagian isi tabel kanan.
+RIGHT JOIN : Untuk menampilkan seluruh isi tabel kanan dan menampilkan sebagian isi tabel kiri.
+AVG : Untuk menghitung nilai rata-rata dari sebuah kolom yang ada di tabel.
+SUM : Untuk menghitung jumlah nilai dari sebuah kolom yang ada di tabel.

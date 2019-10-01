@@ -1,0 +1,3 @@
+UPDATE Mahasiswa SET Nama='Agustina Anggraini' WHERE Nama='Agustina'
+
+SELECT * FROM Mahasiswa

@@ -1,0 +1,5 @@
+INSERT INTO Mahasiswa VALUES ('L200080001', 'Ari Wibowo', 'A', 'Solo')
+
+SELECT * FROM Mahasiswa
+
+INSERT INTO Mahasiswa (NIM, Nama, Kelas) VALUES ('L200080080', 'Agustina', 'B')

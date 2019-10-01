@@ -1,0 +1,1 @@
+SELECT Mahasiswa.NIM, Mahasiswa.Nama, Nilai.Nama_MK, Nilai.Nilai_Angka, Nilai.Nilai_Huruf FROM (Mahasiswa RIGHT JOIN Nilai ON Mahasiswa.NIM=Nilai.NIM)
